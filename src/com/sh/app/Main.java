@@ -13,6 +13,9 @@ public class Main {
 		new Dog().bark();
 		new Cat().jump();
 		new Tiger().jump();
+		
 	}
-
+	public void test() {
+		System.out.println("Main#test");
+	}
 }
