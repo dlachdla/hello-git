@@ -14,6 +14,9 @@ public class Main {
 		new Tiger().jump();
 		
 	}
+	public void abc(){
+		
+	}	
 	public void test() {
 		System.out.println("Main#test");
 		System.out.println("Main#test");
